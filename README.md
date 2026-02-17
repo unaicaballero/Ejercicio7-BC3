@@ -1,0 +1,1 @@
+Aqui tenemos que contar las palabras que hemos estado introducioendo por pantalla, es bantante parecido  uno anterior asi que usamos el map para contar las veces que son introducidas por pantalla una palabra y posteriormente mostrarlo por pantalla.
